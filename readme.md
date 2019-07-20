@@ -54,3 +54,9 @@ el crear una nueva array con forEach() y poder modificar la array devuelta por e
 # Creación módulo commons
 
 ![](https://i.imgur.com/zaHRvlG.png)
+
+# Creacion jSon lista imágenes
+
+Creacion de la Array que quiero que se ve al clicar en la card
+
+![](https://i.imgur.com/TQ2rDEK.png)
