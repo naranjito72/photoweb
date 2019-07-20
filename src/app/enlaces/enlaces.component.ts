@@ -1,6 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { FotografiasService } from '../services/fotografias.service';
 import { ActivatedRoute } from '@angular/router';
+import { Enlaces } from '../enlaces.model';
+import { enlaces } from '../mockEnlaces.model';
 
 @Component({
   selector: 'app-enlaces',
@@ -11,6 +13,7 @@ export class EnlacesComponent implements OnInit {
   /*Necesito lista jSon. */
   public id: any;
   public fotografia: any = {};
+  public enlaces: Array<Enlaces> = enlaces; /*llamada a enlaces */
 
   constructor(public fotografiaService: FotografiasService, public route: ActivatedRoute) { }
 
