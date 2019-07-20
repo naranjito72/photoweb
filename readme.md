@@ -34,5 +34,5 @@ Me hace la repetición (*ngFor), pero no como yo creia que lo había colocado (d
 
 
 
-![](https://imgur.com/292FgnX)
+![](https://imgur.com/292FgnX.png)
 
