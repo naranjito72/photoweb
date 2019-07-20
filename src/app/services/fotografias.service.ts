@@ -22,4 +22,7 @@ export class FotografiasService {
     return fotografiaItem;
   }
   }
+  /*
+Funcions add create y delete van aqui. Aqui es fan els crud.
+  */
 
