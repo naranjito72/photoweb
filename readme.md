@@ -43,3 +43,10 @@ más sencillo aún: una card, click, introducirme a un Array donde pueda añadir
 las URL de las imagenes.
 
 ![](https://i.imgur.com/Z2eN8uK.png)
+
+# Creación del nuevo jSon 
+
+Una vez más, creo un jSon, con una Array de la API que Lorem Pictum me ofrece (la próxima versión será conseguir 
+el crear una nueva array con forEach() y poder modificar la array devuelta por el metodo).
+
+![](https://i.imgur.com/pIuIt9z.png)
