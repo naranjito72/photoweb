@@ -50,3 +50,7 @@ Una vez más, creo un jSon, con una Array de la API que Lorem Pictum me ofrece (
 el crear una nueva array con forEach() y poder modificar la array devuelta por el metodo).
 
 ![](https://i.imgur.com/pIuIt9z.png)
+
+# Creación módulo commons
+
+![](https://i.imgur.com/zaHRvlG.png)
