@@ -8,6 +8,7 @@ import { ActivatedRoute } from '@angular/router';
   styleUrls: ['./enlaces.component.css']
 })
 export class EnlacesComponent implements OnInit {
+  /*Necesito lista jSon. */
   public id: any;
   public fotografia: any = {};
 
@@ -21,3 +22,4 @@ export class EnlacesComponent implements OnInit {
   }
 
 }
+
