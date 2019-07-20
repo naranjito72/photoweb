@@ -3,21 +3,23 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { WebHomeComponent } from './web-home/web-home.component';
+
 import { EnlacesComponent } from './enlaces/enlaces.component';
+import { CommonsModule } from './commons/commons.module';
 
 @NgModule({
   declarations: [
     AppComponent,
-    WebHomeComponent,
+
     EnlacesComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
+    CommonsModule
   ],
   providers: [],
   bootstrap: [AppComponent],
-  exports: [WebHomeComponent, EnlacesComponent]
+  exports: [EnlacesComponent]
 })
 export class AppModule { }
