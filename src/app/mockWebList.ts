@@ -78,7 +78,7 @@ export const fotografias: Fotografia [] = [
       url:	'https://unsplash.com/photos/yC-Yzbqy7PY',
       downloadUrl:	'https://picsum.photos/id/0/5616/3744',
       card: 'web 9',
-    }, {
+    }/* , {
       id: 10,
       author:	'Alejandro Escamilla',
       width:	5616,
@@ -86,5 +86,5 @@ export const fotografias: Fotografia [] = [
       url:	'https://unsplash.com/photos/yC-Yzbqy7PY',
       downloadUrl:	'https://picsum.photos/id/0/5616/3744',
       card: 'web 10',
-    }
+    } */
   ];
