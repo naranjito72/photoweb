@@ -36,3 +36,10 @@ Me hace la repetición (*ngFor), pero no como yo creia que lo había colocado (d
 
 ![](https://i.imgur.com/292FgnX.png)
 
+# Lectura correcta del *ngFor
+
+Me aparece el listado jSon que he creado gracias a la iteracion *ngFor, pero quiero hacerlo 
+más sencillo aún: una card, click, introducirme a un Array donde pueda añadir o quitar
+las URL de las imagenes.
+
+![](https://i.imgur.com/Z2eN8uK.png)
