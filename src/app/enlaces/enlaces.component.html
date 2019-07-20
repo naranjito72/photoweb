@@ -1,4 +1,25 @@
-<div *ngFor="let enlace of enlaces">
+<!--  <div *ngFor="let enlace of enlaces">
   <p>{{enlace.url}}</p>
 
-</div>
+</div> -->
+<div class="container mb-5">
+    <div class="row justify-content-md-center">
+      <div class="col-md-12">
+        <div class="row">
+           <div class="col-md-4 mb-4" *ngFor="let enlace of enlaces">
+
+            <div class="card" style="width: 18rem;">
+              <img class="img-fluid mx-auto" [src]="enlace.downloadUrl" alt="{{enlace.author}}">
+              <div class="card-body">
+                <a [routerLink]="['/pagina', 'pagina.id']" routerLinkActive="router-link-active" target="_blank">
+                <h5 class="card-title text-center"> {{enlace.author | uppercase }}</h5>
+              </a>
+                <p class="card-text">Consigue tu listado de URL'S de calidad y gratuitas para tus trabajos profesionales.</p>
+                <a [routerLink]="['/pagina', 'pagina.id']" routerLinkActive="router-link-active" class="btn btn-primary" target="_blank">Listado</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
