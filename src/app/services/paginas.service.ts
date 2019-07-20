@@ -13,7 +13,7 @@ export class PaginasService {
   public getPaginas() {
     return this.paginas;
   }
-  getPagina(id: string) {
+  getPagina(id: number) {
     let paginaItem: Pagina;
     this.paginas.forEach((singlePagina) => {
       if (singlePagina.id === Number(id)) {
@@ -24,3 +24,4 @@ export class PaginasService {
   }
 
 }
+

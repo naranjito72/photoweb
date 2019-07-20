@@ -16,7 +16,8 @@ export const paginas: Pagina [] = [
         'angular',
         'formal',
         'tele'
-      ]
+      ],
+      card: 'web 1',
     }, {
       id: 2,
       title: 'Gratisography',
@@ -29,7 +30,8 @@ export const paginas: Pagina [] = [
         'angular',
         'formal',
         'tele'
-      ]
+      ],
+      card: 'web 2',
     }, {
       id: 3,
      title: 'Pexels',
@@ -42,7 +44,8 @@ export const paginas: Pagina [] = [
         'angular',
         'formal',
         'tele'
-      ]
+      ],
+      card: 'web 3',
     }, {
       id: 4,
       title: 'Reshot',
@@ -55,7 +58,8 @@ export const paginas: Pagina [] = [
         'angular',
         'formal',
         'tele'
-      ]
+      ],
+      card: 'web 4',
     }, {
       id: 5,
       title: 'RawPixel',
@@ -68,7 +72,8 @@ export const paginas: Pagina [] = [
         'angular',
         'formal',
         'tele'
-      ]
+      ],
+      card: 'web 5',
     }
   , {
       id: 6,
@@ -82,7 +87,8 @@ export const paginas: Pagina [] = [
         'angular',
         'formal',
         'tele'
-      ]
+      ],
+      card: 'web 6',
     }, {
       id: 7,
       title: 'Pixabay',
@@ -95,7 +101,8 @@ export const paginas: Pagina [] = [
         'angular',
         'formal',
         'tele'
-      ]
+      ],
+      card: 'web 7',
     }, {
       id: 8,
       title: 'StockVault',
@@ -108,7 +115,8 @@ export const paginas: Pagina [] = [
         'angular',
         'formal',
         'tele'
-      ]
+      ],
+      card: 'web 8',
     }, {
       id: 9,
       title: 'PicJumbo',
@@ -121,7 +129,8 @@ export const paginas: Pagina [] = [
         'angular',
         'formal',
         'tele'
-      ]
+      ],
+      card: 'web 9',
     }, {
       id: 10,
       title: 'PikWizard',
@@ -134,6 +143,7 @@ export const paginas: Pagina [] = [
         'angular',
         'formal',
         'tele'
-      ]
+      ],
+      card: 'web 10',
     }
   ];

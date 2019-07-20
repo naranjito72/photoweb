@@ -5,6 +5,7 @@ export class Pagina {
   genres: string [];
   logo: string;
   portraits: string [];
+  card: string;
 }
 /*Export doc */
 

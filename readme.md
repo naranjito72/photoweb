@@ -31,27 +31,7 @@ Me hace la repetición (*ngFor), pero no como yo creia que lo había colocado (d
 
 5:30am Inicio de nuevo el proceso para la extraccion de la lista "fake"
 
-# A new beggining
 
-6:26am. Pc crashed y todo se perdio (no commit, tal y como predijo raul). Inicio nuevo proyecto, más sencillo de extraccion de datos de una lista. Desayuno mientras se instala todo.
-
-# 10:30 am
-
-Sigo en clase tratando de realizar una lectura de la array (mockEnlaces.ts). Esta app será menos ambiciosa que la anterior,  a modo de hacer un cine .
-
-# Conclusiones ( Temporales)
-
-Datos objetivos.
-      . Inicio más que correcto el fin de semana (construcción de la app desde cero)
-      . Enrutamiento básico correcto
-      . X-mind realizado
-      . Frames realizados (Pen)
-      .Domingo:
-         Primeros problemas. Intención de colocar el form en enrutamiento asincrono y lazy 
-      . Lunes:
-        Sigo, demasiado, encabezonado en el form. Perdida del día. 
-      . Martes:
-        Enrutamiento del form (finally)
 
 
 ![](https://imgur.com/kTenY67.png)
