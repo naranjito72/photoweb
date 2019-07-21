@@ -60,3 +60,20 @@ el crear una nueva array con forEach() y poder modificar la array devuelta por e
 Creacion de la Array que quiero que se ve al clicar en la card
 
 ![](https://i.imgur.com/TQ2rDEK.png)
+
+# Inicio de un nuevo proyecto
+
+Gracias a la ayuda de mis compañeros ( Dani "elix el Gato", Fran y Miguel) me he dado cuenta queestaba utilizando componentes sueltos
+sin conexión y pretendia (logrado de hecho) que realizaran más funciones de las que es recomdable relizar en un sólo componente.
+ Dadas las especificaciones del proyecto, he decidido reiniciarlo de nuevo utilizando una estructura más ordenada, pasando de esto:
+
+ ![](https://i.imgur.com/vJQ7bsn.png)
+
+ a una arquitectura más coherente:
+
+ ![](https://i.imgur.com/xnzIJpP.png)
+
+ dando como resultado una estructura más ordenada y preparada para los requerimientos pedidos.
+ ![](https://i.imgur.com/LaXm3QS.png)
+
+

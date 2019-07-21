@@ -9,7 +9,7 @@
            <div class="col-md-4 mb-4" *ngFor="let enlace of enlaces">
 
             <div class="card" style="width: 18rem;">
-              <img class="img-fluid mx-auto" [src]="enlace.downloadUrl" alt="{{enlace.author}}">
+              <img class="img-fluid mx-auto" style="width: 18rem; height: 12rem;" [src]="enlace.downloadUrl" alt="{{enlace.author}}">
               <div class="card-body">
                 <a [routerLink]="['/pagina', 'pagina.url']" target="_blank">
                 <h5 class="card-title text-center"> {{enlace.author | uppercase }}</h5>
@@ -18,6 +18,7 @@
                 <p class="card-text">{{enlace.author}}</p>
                 <p class="card-text">{{enlace.width}}</p>
                 <p class="card-text">{{enlace.height}}</p>
+                <p class="card-text">{{enlace.url}}</p>
                 <a [routerLink]="['/enlace','enlace.downloadUrl']"  class="btn btn-primary" target="_blank">Imagen</a>
               </div>
             </div>
@@ -26,3 +27,4 @@
       </div>
     </div>
   </div>
+
