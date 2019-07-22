@@ -81,4 +81,11 @@ Una vez montada la estructura nueva, decidimos transladar la producción a la pl
 
 ![](https://i.imgur.com/P6rolDn.png)
 
+# Log in
+
+Lo más duro, sin duda, de la producción llevada hasta ahora. Sin lugar a dudas; sin la ayuda de mis compañeros de clase, no lo habría conseguido en un sólo día. Mayor problema: crossData. Register members and Login nos han dado muchos problemas al:
+
+    Log In
+       Nos incrementaba al usuario YA inscrito en la API 
+
 
