@@ -92,6 +92,10 @@ Lo más duro, sin duda, de la producción llevada hasta ahora. Sin lugar a dudas
 	Register
 		NO nos añadía al usuario registrado. Usando la consola del navegador y el depurador del mismo, hemos tratado de analizar el origen del problema.
 		
-Hemos debido recorrer las funciones que tengo 
+Hemos debido recorrer las funciones que tengo en el documento auth.service.
+
+![](https://i.imgur.com/XxZihI6.png)
+
+
 
 
