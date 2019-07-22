@@ -15,7 +15,7 @@ Generación del proyecto, ordenacion de los modulos, enrutamiento (fijo y lazy) 
 
 jSon de las URL's. Conseguir leer las Url de la base de datos y formulario. Intentaré el login. Estilos .
 
-## Tarde/Noche de locos!
+# Tarde/Noche de locos!
 
 No he conseguido el login. Dada la falta de tiempo, creo una base de datos "fake" (webs.ts y mockWebs.ts) colocada en la carpeta shared
 
@@ -86,6 +86,12 @@ Una vez montada la estructura nueva, decidimos transladar la producción a la pl
 Lo más duro, sin duda, de la producción llevada hasta ahora. Sin lugar a dudas; sin la ayuda de mis compañeros de clase, no lo habría conseguido en un sólo día. Mayor problema: crossData. Register members and Login nos han dado muchos problemas al:
 
     Log In
-       Nos incrementaba al usuario YA inscrito en la API 
+       Nos incrementaba al usuario YA inscrito en la API (localhost:3000/users) si entrábamos por el log in, 
+	   como si fuera un el loop de un for() o un *ngFor()
+	   
+	Register
+		NO nos añadía al usuario registrado. Usando la consola del navegador y el depurador del mismo, hemos tratado de analizar el origen del problema.
+		
+Hemos debido recorrer las funciones que tengo 
 
 
