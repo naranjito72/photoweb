@@ -1,18 +1,20 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-
-import { HomeComponent } from './home/home.component';
 import { NavbarComponent } from './navbar/navbar.component';
-import { NotFoundComponent } from './not-found/not-found.component';
+import { HomeComponent } from './home/home.component';
+import { NotfoundComponent } from './notfound/notfound.component';
 import { RouterModule } from '@angular/router';
+import { MaterialModule } from '../material/material.module';
+import { SideNavbarComponent } from './side-navbar/side-navbar.component';
+
 
 @NgModule({
-  declarations: [HomeComponent, NavbarComponent, NotFoundComponent],
+  declarations: [NavbarComponent, HomeComponent, NotfoundComponent, SideNavbarComponent],
   imports: [
     CommonModule,
-    RouterModule
-
+    RouterModule,
+    MaterialModule
   ],
-  exports: [HomeComponent, NavbarComponent, NotFoundComponent]
+  exports: [NavbarComponent, HomeComponent, NotfoundComponent, SideNavbarComponent]
 })
 export class CommonsModule { }

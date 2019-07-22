@@ -63,9 +63,8 @@ Creacion de la Array que quiero que se ve al clicar en la card
 
 # Inicio de un nuevo proyecto
 
-Gracias a la ayuda de mis compañeros ( Dani "elix el Gato", Fran y Miguel) me he dado cuenta queestaba utilizando componentes sueltos
-sin conexión y pretendia (logrado de hecho) que realizaran más funciones de las que es recomdable relizar en un sólo componente.
- Dadas las especificaciones del proyecto, he decidido reiniciarlo de nuevo utilizando una estructura más ordenada, pasando de esto:
+  Gracias a la ayuda de mis compañeros ( Dani "Felix el Gato", Fran y Miguel) me he dado cuenta que estaba utilizando componentes sueltos sin conexión y pretendia (logrado de hecho) que realizaran más funciones de las que es recomdable que relice un sólo componente.
+  Dadas las especificaciones del proyecto, he decidido reiniciarlo de nuevo utilizando una estructura más ordenada, pasando de esto:
 
  ![](https://i.imgur.com/vJQ7bsn.png)
 
@@ -75,5 +74,11 @@ sin conexión y pretendia (logrado de hecho) que realizaran más funciones de la
 
  dando como resultado una estructura más ordenada y preparada para los requerimientos pedidos.
  ![](https://i.imgur.com/LaXm3QS.png)
+
+# Acoplamiento plantilla 
+
+Una vez montada la estructura nueva, decidimos transladar la producción a la plantilla crud, tratando ya , una vez establecidos los módulos (fotografias) los componentes (fotografia-detalle y fotografias-list) servicios (api.fotografias.service) para poder mostrar la lista de las url de las fotografías que he ejecutado en el fichero interno jSon y he exportado al servidor localhost:3000
+
+![](https://i.imgur.com/P6rolDn.png)
 
 
