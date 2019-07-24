@@ -6,15 +6,16 @@ import { NotfoundComponent } from './notfound/notfound.component';
 import { RouterModule } from '@angular/router';
 import { MaterialModule } from '../material/material.module';
 import { SideNavbarComponent } from './side-navbar/side-navbar.component';
+import { HeaderComponent } from './header/header.component';
 
 
 @NgModule({
-  declarations: [NavbarComponent, HomeComponent, NotfoundComponent, SideNavbarComponent],
+  declarations: [NavbarComponent, HomeComponent, NotfoundComponent, SideNavbarComponent, HeaderComponent],
   imports: [
     CommonModule,
     RouterModule,
     MaterialModule
   ],
-  exports: [NavbarComponent, HomeComponent, NotfoundComponent, SideNavbarComponent]
+  exports: [NavbarComponent, HomeComponent, NotfoundComponent, SideNavbarComponent, HeaderComponent]
 })
 export class CommonsModule { }

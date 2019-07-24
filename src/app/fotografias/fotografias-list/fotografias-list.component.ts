@@ -17,7 +17,7 @@ displayedColumns: string[] = ['id', 'author']; // reste valors
   constructor(public api: ApiFotografiasService) { }
 getFotografias() {
 this.api.getFotografias$().subscribe({
-  next: arg => {this.fotografias = arg; this.matTable();}
+  next: arg => {this.fotografias = arg; this.matTable(); }
 });
 }
 matTable() {

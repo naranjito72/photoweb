@@ -19,7 +19,7 @@
   <ng-container matColumnDef="author">
     <th mat-header-cell *matHeaderCellDef>AUTHOR</th>
     <td mat-cell *matCellDef="let fotografia" >
-      <a [routerLink]="['fotografiaDetall', fotografia.id]" >
+      <a [routerLink]="['fotografiaDetall', fotografia.author]" >
         {{fotografia.author}}
       </a>
     </td>
