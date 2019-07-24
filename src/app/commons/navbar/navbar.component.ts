@@ -13,9 +13,9 @@ export class NavbarComponent implements OnInit {
   @Output() public sidenavToggle = new EventEmitter();
   public isLogged = false;
 
-  constructor(private authService: AuthService, private router: Router){}
+  constructor(private authService: AuthService, private router: Router) {}
 
-  ngOnInit(){
+  ngOnInit() {
     this.onCheckUser();
 
   }

@@ -10,6 +10,7 @@ import { RegisterComponent } from './users/register/register.component';
 import { AuthGuard } from './shared/guards/auth.guard';
 import { FotografiasListComponent } from './fotografias/fotografias-list/fotografias-list.component';
 import { HeaderComponent } from './commons/header/header.component';
+import { FotografiaDetalleComponent } from './fotografias/fotografia-detalle/fotografia-detalle.component';
 
 const routes: Routes = [
   {path: '', redirectTo: 'home', pathMatch: 'full'},
@@ -17,6 +18,7 @@ const routes: Routes = [
   {path: 'header', component: HeaderComponent},
   {path: 'members', component: MemberListComponent, canActivate: [AuthGuard] },
   {path: 'fotografias', component: FotografiasListComponent, canActivate: [AuthGuard] },
+  {path: 'cards', component: FotografiaDetalleComponent},
   {path: 'users/login', component: LoginComponent },
   {path: 'users/register', component: RegisterComponent },
   {path: 'members/:id', component: MemberComponent},
