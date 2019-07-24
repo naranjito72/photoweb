@@ -17,4 +17,8 @@ export class ApiFotografiasService {
     this.apiURL = `${this.apiURL}${id}`;
     return this.http.get<Fotografia>(this.apiURL);
   }
+  deleteFotografias$(id: string) {
+    this.apiURL = `${this.apiURL}${id}`;
+    return this.http.delete<Fotografia>(this.apiURL);
+  }
 }

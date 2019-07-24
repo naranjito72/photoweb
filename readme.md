@@ -107,7 +107,7 @@ Problema resuelto ya que no estaba llamando correctamente al elemento en el list
 
 Ahora deseo que en component fotografias detalle se abra una card con la información de la lista. 
 
-Debo documentarme. En pseudo codigo entiendo que los componentes de fotografias (detalle- list) deben comunicarse, entediendo que el componente list será el padre (el inyector) y detalle component el hijo (el inyectado). Buscaré los métodos d transferencia para los componentes.
+Debo documentarme. En pseudo codigo entiendo que los componentes de fotografias (detalle- list) deben comunicarse, entediendo que el componente list será el padre (el inyector) y detalle component el hijo (el inyectado). Buscaré los métodos d transferencia para los componentes. Observables , Roberto ,Observables.
 
 ![](https://i.imgur.com/inwPjJP.png)
 

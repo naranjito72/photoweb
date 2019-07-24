@@ -7,7 +7,7 @@
 </mat-form-field>
 <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
   <!--Id Colum-->
-  <ng-container matColumnDef="id">
+  <!-- <ng-container matColumnDef="id">
     <th mat- sort-header-cell *matHeaderCellDef>ID</th>
     <td mat-cell *matCellDef="let fotografia" >
       <a [routerLink]="['fotografiaDetall', fotografia.id]" >
@@ -15,13 +15,14 @@
         {{fotografia.id}}
       </a>
     </td>
-  </ng-container>
+  </ng-container> -->
   <!--author Colum-->
   <ng-container matColumnDef="author">
     <th mat-sort-header-cell *matHeaderCellDef>Author</th>
     <td mat-cell *matCellDef="let fotografia" >
       <a [routerLink]="['fotografiaDetall', fotografia.author]" >
         {{fotografia.author}}
+        <img src="{{fotografia.url}}"  >
       </a>
     </td>
   </ng-container>

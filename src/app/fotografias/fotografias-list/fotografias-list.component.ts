@@ -12,7 +12,7 @@ export class FotografiasListComponent implements OnInit {
 // definicion objecte que volem reprensentar
 public fotografias: any = [];
 public dataSource = new MatTableDataSource(this.fotografias);
-displayedColumns: string [] = ['id', 'author', 'URL']; // reste valors
+displayedColumns: string [] = [/*'id' */'author', 'URL']; // reste valors
 
   constructor(public api: ApiFotografiasService) { }
 getFotografias() {
@@ -20,7 +20,10 @@ this.api.getFotografias$().subscribe({
   next: arg => {this.fotografias = arg; this.matTable(); }
 });
 }
-
+/* deleteFotografias( id: string) {
+this.api.deleteFotografias$(id).splice( this.api.deleteFotografias$.indexOf(Fotografia), 1);
+}
+ */
 matTable() {
   this.dataSource = new MatTableDataSource(this.fotografias);
 }
