@@ -9,10 +9,12 @@ import { LoginComponent } from './users/login/login.component';
 import { RegisterComponent } from './users/register/register.component';
 import { AuthGuard } from './shared/guards/auth.guard';
 import { FotografiasListComponent } from './fotografias/fotografias-list/fotografias-list.component';
+import { HeaderComponent } from './commons/header/header.component';
 
 const routes: Routes = [
   {path: '', redirectTo: 'home', pathMatch: 'full'},
   {path: 'home', component: HomeComponent},
+  {path: 'header', component: HeaderComponent},
   {path: 'members', component: MemberListComponent, canActivate: [AuthGuard] },
   {path: 'fotografias', component: FotografiasListComponent, canActivate: [AuthGuard] },
   {path: 'users/login', component: LoginComponent },
