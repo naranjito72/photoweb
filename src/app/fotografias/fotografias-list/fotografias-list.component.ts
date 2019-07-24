@@ -12,13 +12,17 @@ export class FotografiasListComponent implements OnInit {
 // definicion objecte que volem reprensentar
 public fotografias: any = [];
 public dataSource = new MatTableDataSource(this.fotografias);
-displayedColumns: string[] = ['id', 'author']; // reste valors
+displayedColumns: string [] = ['id', 'author', 'URL']; // reste valors
 
   constructor(public api: ApiFotografiasService) { }
 getFotografias() {
 this.api.getFotografias$().subscribe({
   next: arg => {this.fotografias = arg; this.matTable(); }
 });
+}
+getImagenIconUrl( URL: string) {
+  
+
 }
 matTable() {
   this.dataSource = new MatTableDataSource(this.fotografias);

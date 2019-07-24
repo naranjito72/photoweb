@@ -96,6 +96,11 @@ Hemos debido recorrer las funciones que tengo en el documento auth.service.
 
 ![](https://i.imgur.com/XxZihI6.png)
 
+# Pintado de la lista
+
+Otro problema que me está costando solventar es de añadir los campos url a la tabla. Por más que está definido como string,
+![](https://i.imgur.com/ZRcyWog.png)
+
 
 
 
