@@ -20,10 +20,7 @@ this.api.getFotografias$().subscribe({
   next: arg => {this.fotografias = arg; this.matTable(); }
 });
 }
-getImagenIconUrl( URL: string) {
-  
 
-}
 matTable() {
   this.dataSource = new MatTableDataSource(this.fotografias);
 }

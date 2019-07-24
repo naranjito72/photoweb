@@ -101,6 +101,13 @@ Hemos debido recorrer las funciones que tengo en el documento auth.service.
 Otro problema que me está costando solventar es de añadir los campos url a la tabla. Por más que está definido como string,
 ![](https://i.imgur.com/ZRcyWog.png)
 
+Problema resuelto ya que no estaba llamando correctamente al elemento en el list component html
+
+# Imagen
+
+Ahora deseo que en component fotografias detalle se abra una card con la información de la lista
+
+
 
 
 
