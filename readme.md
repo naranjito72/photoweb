@@ -123,6 +123,14 @@ Voy a utilizar el flex-layout nativo de Material para que al menos el responsive
 
 Perdida de los ficheros de @angular/animation. Descarga de los mismos.
 
+Trabajando en la maquetación en el ambito "mobile first". Aún sin poder probar todas las características de flex-layout Material, está claro
+que trabajan mejor juntos que el sistema flex-box. Por otro lado la lista de las URL... me está costando el hecho de centrar los titulos y la lista en si. 
+El default que raúl nos coloco "heigth: 100%;" pensado para la side nav bar, me estaba creando un segundo scroll en el componente fotografías-list.
+He cambiado el 100% por un auto; y el problema parece resuelto.
+
+
+![](https://i.imgur.com/DRpdpe4.png)
+
 
 
 
