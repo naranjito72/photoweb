@@ -6,31 +6,31 @@
   padding:0;
   margin:0;
   box-sizing: border-box;
-  display:flex;
-  flex-flow: row wrap;
-  justify-content: space-evenly;
-
 
 }
 .container{
   width:90vw;
   height: auto;
-  display: flex;
-  flex-flow: row nowrap;
-  justify-content: space-between;
-  padding-top: 10vh;
 }
 .mainHome{
-  width:30vw;
-  height:30vh;
+ /*  width:30vw;
+  height:30vh; */
   background-color: rgba(242, 242, 242, 0.3);
   background-image: url(../../../assets/back2.png);
   margin:2vw;
+  color: whitesmoke;
 
 }
 .titulo{
-  font-size: 150%;
-  font-weight: 700;
+  font-family: 'Raleway', Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 120%;
+  font-weight: thin;
+}
+.subtitulo{
+  font-family: 'Raleway', Verdana, Geneva, Tahoma, sans-serif;
+  /* font-size: 90%; */
+  font-weight: thin;
+  color:whitesmoke;
 }
 
 
