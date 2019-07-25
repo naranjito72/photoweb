@@ -1,6 +1,7 @@
 :host{
   font-family: 'Raleway', Verdana, Geneva, Tahoma, sans-serif;
   font-size:125%;
+  height: auto !important;
 }
 img{
   width: 3vw;
@@ -15,14 +16,4 @@ img{
 .filter input{
   color:whitesmoke;
 }
- #tabla{
-   display:flex;
-   flex-flow:column nowrap;
-   justify-content: space-evenly;
-  width:95vw !important;
-  border-radius:10px !important;
-  -webkit-border-radius:10px !important;
-  -moz-border-radius:10px !important;
-  -ms-border-radius:10px !important;
-  -o-border-radius:10px !important;
-}
+

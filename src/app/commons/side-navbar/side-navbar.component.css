@@ -11,3 +11,8 @@ a:hover, a:active{
   display: inline-block;
   padding-left: 6px;
 }
+:host{
+font-family: 'Raleway', Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 500;
+
+}

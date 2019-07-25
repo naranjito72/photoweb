@@ -121,6 +121,7 @@ Voy a utilizar el flex-layout nativo de Material para que al menos el responsive
 
 ![](https://i.imgur.com/DvWxYqg.jpg)
 
+Perdida de los ficheros de @angular/animation. Descarga de los mismos.
 
 
 
