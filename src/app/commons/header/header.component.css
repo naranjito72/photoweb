@@ -9,6 +9,7 @@
   font-family:'Raleway', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size:3rem;
   font-weight: thin;
+
 }
 .subtitulo{
   font-family: 'Raleway', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -21,3 +22,9 @@
   font-size:150%;
   color: whitesmoke;
 }
+.contenedor {
+text-align: center;
+margin:3rem 0 9rem 120rem;
+
+}
+
