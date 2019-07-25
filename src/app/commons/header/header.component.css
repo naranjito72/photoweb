@@ -14,12 +14,12 @@
 .subtitulo{
   font-family: 'Raleway', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color: whitesmoke;
-  font-size:2rem;
+  font-size:1.2rem;
   font-weight: thin;
 
 }
 .icono{
-  font-size:150%;
+  font-size:110%;
   color: whitesmoke;
 }
 .contenedor {
