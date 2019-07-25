@@ -115,6 +115,13 @@ Debo documentarme. En pseudo codigo entiendo que los componentes de fotografias 
 
 Dada la fecha de entrega (hoy), no puedo quedarme parado más tiempo en el código. Inicio un poco (muy ligero) estilo en CSS. Material es un gran desconocido para mi. He utilizado elementos y etiquetas que material utiliza (mat-card, card, th mat-sort, td mat-cell ) pero dado que tengo que investigar más profundamente no puedo pararme hoy en ello.
 
+#************************************** Material**************************************
+He estado utilizando flex-box (CSS) en el proyecto, pero no me da el responsive adecuado. Al reducir las medidas y sin haber hecho las @query todo se desajusta.
+Voy a utilizar el flex-layout nativo de Material para que al menos el responsive sea correcto.
+
+![](https://i.imgur.com/DvWxYqg.jpg)
+
+
 
 
 
