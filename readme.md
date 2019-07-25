@@ -140,6 +140,13 @@ aunque no he conseguido centrar la maldita tabla de fotografia -list. Material e
 Las conclusiones en este apartdo son muy claras: Angular y Material van de la mano. Podemos utilizar Flex-box y cualquiera de los comandos de CSS , pero 
 el responsive será mucho más intuitivo con los módulos de Material. Otro concepto que debo aprender.
 
+# Presentaciones
+
+Slides (https://slides.com/naranjito72/deck) es la herramienta aconsejada para hacer la presentación de nuestra app. No la conocía y su uso resulta muy amigable y recomdable.
+
+
+![](https://i.imgur.com/j3gLejQ.png)
+
 
 
 
