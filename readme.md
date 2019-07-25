@@ -111,6 +111,11 @@ Debo documentarme. En pseudo codigo entiendo que los componentes de fotografias 
 
 ![](https://i.imgur.com/inwPjJP.png)
 
+# Estilos
+
+Dada la fecha de entrega (hoy), no puedo quedarme parado más tiempo en el código. Inicio un poco (muy ligero) estilo en CSS. Material es un gran desconocido para mi. He utilizado elementos y etiquetas que material utiliza (mat-card, card, th mat-sort, td mat-cell ) pero dado que tengo que investigar más profundamente no puedo pararme hoy en ello.
+
+
 
 
 

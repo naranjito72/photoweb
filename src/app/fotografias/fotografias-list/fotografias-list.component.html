@@ -22,7 +22,7 @@
     <td mat-cell *matCellDef="let fotografia" >
       <a [routerLink]="['fotografiaDetall', fotografia.author]" >
         {{fotografia.author}}
-        <img src="{{fotografia.url}}"  >
+
       </a>
     </td>
   </ng-container>
@@ -33,7 +33,17 @@
       <a [routerLink]="['fotografiaDetall', fotografia.url]" >
         {{fotografia.url}}
       </a>
-   
+
+    </td>
+  </ng-container>
+  <!--author Url-->
+  <ng-container matColumnDef="download_url">
+    <th mat-sort-header-cell *matHeaderCellDef>download</th>
+    <td mat-cell *matCellDef="let fotografia" >
+        <span class="mostrar">
+            <img mat-card-avatar src="{{fotografia.download_url}}"  >
+          </span>
+
     </td>
   </ng-container>
 

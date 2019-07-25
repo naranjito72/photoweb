@@ -5,13 +5,14 @@ mat-sidenav-container, mat-sidenav-content, mat-sidenav {
 mat-sidenav {
     width: 250px;
 }
-@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900&display=swap');
+
 main {
     padding: 10px;
-    background-color: #333;
-    height: 100vh;
+    background-color:#333;
+    height:auto;
     background-image: url(../assets/background.png);
-    font-family: 'Raleway', Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 125%;
-    
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+
 }

@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900&display=swap');
+:host {
+ /*  background-image: url(../../../assets/background.png); */
+  font-family: 'Raleway', Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 125%;
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+
+
+}
+.container{
+  width:90vw;
+  height: auto;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  padding-top: 10vh;
+}
+.mainHome{
+  width:40vw;
+  height:30vh;
+  background-color: rgba(242, 242, 242, 0.3)
+}
+.titulo{
+  font-size: 150%;
+  font-weight: 700;
+}
+
+
