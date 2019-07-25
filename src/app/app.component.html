@@ -1,4 +1,4 @@
-<!-- <app-header></app-header> -->
+ <app-header></app-header>
 <mat-sidenav-container>
   <mat-sidenav #sidenav role="navigation">
     <!--this is a place for us to add side-nav code-->
@@ -8,8 +8,9 @@
   <mat-sidenav-content>
       <app-navbar  (sidenavToggle)="sidenav.toggle()"></app-navbar>
     <!--in here all the content must reside. We will add a navigation header as well-->
-    <main>
+    <!-- <main>
       <router-outlet></router-outlet>
-    </main>
+    </main> -->
+    <router-outlet></router-outlet>
   </mat-sidenav-content>
 </mat-sidenav-container>

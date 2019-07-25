@@ -1,0 +1,23 @@
+.mainHeader{
+  background-image: url(../../../assets/background.png);
+  background-size:cover;
+  font-family: 'Raleway', Verdana, Geneva, Tahoma, sans-serif;
+  color:whitesmoke;
+
+}
+.titulo{
+  font-family:'Raleway', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:250%;
+  font-weight: thin;
+}
+.subtitulo{
+  font-family: 'Raleway', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: whitesmoke;
+  font-size:100%;
+  font-weight: thin;
+
+}
+.icono{
+  font-size:150%;
+  color: whitesmoke;
+}
