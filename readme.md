@@ -147,6 +147,8 @@ Slides (https://slides.com/naranjito72/deck) es la herramienta aconsejada para h
 
 ![](https://i.imgur.com/j3gLejQ.png)
 
+Presentación finalizada. Mock ups acabados. Arquitectura: check. Sólo queda subir a producción.
+
 
 
 
