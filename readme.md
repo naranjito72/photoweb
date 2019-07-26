@@ -149,6 +149,12 @@ Slides (https://slides.com/naranjito72/deck) es la herramienta aconsejada para h
 
 Presentación finalizada. Mock ups acabados. Arquitectura: check. Sólo queda subir a producción.
 
+# Not Found
+
+Último componente que colocado antes de subir  a producción. A template de https://freefrontend.com/html-css-404-page-templates/ 
+
+
+![](https://i.imgur.com/BShjkxS.png)
 
 
 
