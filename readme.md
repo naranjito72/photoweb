@@ -170,7 +170,7 @@ En la consola parece que todo está bien, iniciaremos el build para la subida a 
 Creo haber encontrado la causa de todos los problemas: en el documento environment.ts ,cambio de  export const enviroment = { } a export const environment = { }. Necesito revisar los json para confirmar que todo es correcto. Terminal no me indica fallo de momento.
   Creación de las API online sin problema en Heroku, paso a cambiar la ruta en environments
 
-![](https://i.imgur.com/WWU788n.png
-)
+![](https://i.imgur.com/WWU788n.png)
 
+ng build --prod realizado, por fin, de manera exitosa. Continuamos para subir nuestra app
 
