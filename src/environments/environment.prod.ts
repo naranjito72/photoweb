@@ -4,5 +4,5 @@
 };*/
 export const environment = {
 production: true,
-API_URL: 'https://robby3.herokuapp.com/'
+API_URL: 'https://photoweb-api.herokuapp.com/'
 };
