@@ -163,8 +163,9 @@ AL preparar la app para subir a producción Visual y la app se han vuelto locos:
 # Producción II
 
 Problemas técnicos de mi portátil me impidieron ayer subir a producción. Segundo intento.
+En la consola parece que todo está bien, iniciaremos el build para la subida a producción.
 
-
+![](https://i.imgur.com/5e5cdP0.png)
 
 
 
