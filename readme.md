@@ -174,3 +174,20 @@ Creo haber encontrado la causa de todos los problemas: en el documento environme
 
 ng build --prod realizado, por fin, de manera exitosa. Continuamos para subir nuestra app
 
+# Producción
+
+La primera subida a cDMon, ha sido un éxito, La primera subida a siteGround tambien....hasta que he tocado el codigo.
+
+Dejo así la app hasta mañana. SE visualizan en las dos url :
+
+https://www.theclick36.com/photoweb/home
+
+aunque esta es la única que no me pide password. 
+
+# Conclusiones
+
+    Este mes de Agosto quiero mejorar este proyecto : memebers, adMember, deleteMember, adUrl, deleteUrl. Mejorar la interfaz (Material positioning), css (Material) para que me sirva de projecto final en MongoDb. 
+    La profundidad de Angular es evidente, pero tambien lo es la ideonidad de los modulos en el estancamiento de la app (llamadas asincronas, trasvase de datos entre modulos) que le da, bajo mi punto de vista, mas maleabilidad que el simple html/css/js a pelo.
+    Dar las gracias a mis compañeros por el apoyo prestado. A todos ellos, sin los cuales, esto no hubiera sucedido.
+
+
