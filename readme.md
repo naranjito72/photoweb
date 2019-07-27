@@ -160,6 +160,10 @@ Presentación finalizada. Mock ups acabados. Arquitectura: check. Sólo queda su
 
 AL preparar la app para subir a producción Visual y la app se han vuelto locos: No reconocía propiedades de Material (MatTableContentModule, MatTable, MatIcon...) ,no reconocía funciones del test.ts, no reconocía el enrutamiento de MaterialModule en los diferentes módulos, no reconociam environments (¿?)... Apago el ordenador y volveré a intentarlo más tarde, no puedo arriesgarme a perder TODA la APP por unos errores que yo no he cometido
 
+# Producción II
+
+Problemas técnicos de mi portátil me impidieron ayer subir a producción. Segundo intento.
+
 
 
 
