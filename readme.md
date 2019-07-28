@@ -182,12 +182,16 @@ Dejo así la app hasta mañana. SE visualizan en las dos url :
 
 https://www.theclick36.com/photoweb/home
 
-aunque esta es la única que no me pide password. 
+http://photoweb.com.mialias.net/home
+
+
 
 # Conclusiones
 
-    Este mes de Agosto quiero mejorar este proyecto : memebers, adMember, deleteMember, adUrl, deleteUrl. Mejorar la interfaz (Material positioning), css (Material) para que me sirva de projecto final en MongoDb. 
-    La profundidad de Angular es evidente, pero tambien lo es la ideonidad de los modulos en el estancamiento de la app (llamadas asincronas, trasvase de datos entre modulos) que le da, bajo mi punto de vista, mas maleabilidad que el simple html/css/js a pelo.
-    Dar las gracias a mis compañeros por el apoyo prestado. A todos ellos, sin los cuales, esto no hubiera sucedido.
+    Este mes de Agosto quiero mejorar este proyecto : members, adMember, deleteMember, adUrl, deleteUrl... Mejorar la interfaz (Material positioning), css (Material) para que me sirva de projecto final en MongoDb. 
+
+    La profundidad de Angular es evidente. ¿ Haría un portfolio con Angular? A día de hoy, no. Creo que hay otros cr más apropiados para ello. ¿Me haría mi propio portfolio sólo con Angular? Quiero hacerlo. Angular ofrece una  herramienta muy potente con los modulos y el estancamiento de los mismos en la app (llamadas asincronas, trasvase de datos entre modulos) que le da, bajo mi punto de vista, mas maleabilidad que el simple html/css/js a pelo.
+
+    Dar las gracias a todos y cada uno de mis  compañeros por el apoyo prestado. Sin ellos esto no hubiera sucedido. 
 
 
