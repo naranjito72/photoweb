@@ -201,8 +201,8 @@ http://photoweb.com.mialias.net/home
  
  Imágenes:
  
-			
-			![](https://i.imgur.com/ANe2Kmz.png)  
+			Home
+			![](https://i.imgur.com/ANe2Kmz.png)
 			
 			 
 
