@@ -197,7 +197,7 @@ http://photoweb.com.mialias.net/home
 # Mock ups con Pencil
 
 
- URL post: ![](https://imgur.com/a/z6r4QY1)  
+ URL post: https://imgur.com/a/z6r4QY1 
  
  Imágenes:
  
