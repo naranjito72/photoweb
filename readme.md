@@ -202,7 +202,7 @@ http://photoweb.com.mialias.net/home
  Imágenes:
  
 			
-			![](https://i.imgur.com/ANe2Kmz.png)  
+			![](https://imgur.com/ANe2Kmz.png)  
 			
 			![](https://i.imgur.com/0BKLyFo.png)
 			
