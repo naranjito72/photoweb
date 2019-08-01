@@ -193,5 +193,25 @@ http://photoweb.com.mialias.net/home
     La profundidad de Angular es evidente. ¿ Haría un portfolio con Angular? A día de hoy, no. Creo que hay otros cr más apropiados para ello. ¿Me haría mi propio portfolio sólo con Angular? Quiero hacerlo. Angular ofrece una  herramienta muy potente con los modulos y el estancamiento de los mismos en la app (llamadas asincronas, trasvase de datos entre modulos) que le da, bajo mi punto de vista, mas maleabilidad que el simple html/css/js a pelo.
 
     Dar las gracias a todos y cada uno de mis  compañeros por el apoyo prestado. Sin ellos esto no hubiera sucedido. 
+	
+# Mock ups con Pencil
+
+
+ URL post: ![](https://imgur.com/a/z6r4QY1)  
+ 
+ Imágenes:
+ 
+			
+			![](https://i.imgur.com/ANe2Kmz.png)  
+			
+			![](https://i.imgur.com/0BKLyFo.png)
+			
+			![](https://i.imgur.com/wg4Xutw.png)  
+			
+			![](https://i.imgur.com/TmF3wEo.png)  
+			
+			![](https://i.imgur.com/c1y3mLb.png)  
+
+
 
 
