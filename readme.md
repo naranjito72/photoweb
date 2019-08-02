@@ -198,6 +198,11 @@ http://photoweb.com.mialias.net/home
 
 
  URL post: https://imgur.com/a/z6r4QY1 
+
+ # Card Lista
+
+ Trabajando en la aparación del módulo de fotografía-detalle. He conseguido que declarar selectedFotografias,
+ pero me da problemas en *ngIf al no no haber sido capaz de llamar a fotografia desde el otro modulo. A revisar. 
  
  
  

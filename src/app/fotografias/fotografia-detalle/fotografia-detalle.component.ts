@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
+import { Fotografia } from 'src/app/shared/classes/fotografia';
 
 @Component({
   selector: 'app-fotografia-detalle',
@@ -6,9 +8,19 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./fotografia-detalle.component.css']
 })
 export class FotografiaDetalleComponent implements OnInit {
-  constructor() { }
+  public identifier: any;
+  public selectedFotografias: {
+    id: string;
+    author: string;
+    url: string;
+    download_url: string;
+
+  };
+  constructor(private route: ActivatedRoute) { }
 
   ngOnInit() {
+   /*  this.route.params.subscribe(miParams => {this.identifier = miParams['id']; });
+    this.selectedFotografias = Fotografia.find(e => {return e.index == this.identifier}) */
   }
 
 }

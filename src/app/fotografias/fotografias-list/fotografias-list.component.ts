@@ -20,10 +20,10 @@ this.api.getFotografias$().subscribe({
   next: arg => {this.fotografias = arg; this.matTable(); }
 });
 }
-/* deleteFotografias( id: string) {
+/*  deleteFotografias( id: string) {
 this.api.deleteFotografias$(id).splice( this.api.deleteFotografias$.indexOf(Fotografia), 1);
-}
- */
+} */
+
 matTable() {
   this.dataSource = new MatTableDataSource(this.fotografias);
 }
